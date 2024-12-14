@@ -3,7 +3,7 @@ package chapter12.code7
 import kotlinx.coroutines.test.StandardTestDispatcher
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
-import section12.code7.StringStateHolder
+import section.section12.code7.StringStateHolder
 
 
 class StringStateHolderTestSuccess {

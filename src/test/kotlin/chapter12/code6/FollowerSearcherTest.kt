@@ -4,8 +4,8 @@ import kotlinx.coroutines.test.runTest
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
-import section12.code6.Follower
-import section12.code6.FollowerSearcher
+import section.section12.code6.Follower
+import section.section12.code6.FollowerSearcher
 
 class FollowerSearcherTest {
   private lateinit var followerSearcher: FollowerSearcher

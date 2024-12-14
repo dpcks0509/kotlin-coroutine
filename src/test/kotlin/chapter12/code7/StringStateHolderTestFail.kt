@@ -4,7 +4,7 @@ import kotlinx.coroutines.test.advanceUntilIdle
 import kotlinx.coroutines.test.runTest
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import section12.code7.StringStateHolder
+import section.section12.code7.StringStateHolder
 
 
 class StringStateHolderTestFail {

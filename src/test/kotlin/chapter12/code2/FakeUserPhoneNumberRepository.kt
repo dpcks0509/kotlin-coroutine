@@ -1,6 +1,6 @@
 package chapter12.code2
 
-import section12.code2.UserPhoneNumberRepository
+import section.section12.code2.UserPhoneNumberRepository
 
 class FakeUserPhoneNumberRepository : UserPhoneNumberRepository {
   private val userPhoneNumberMap = mutableMapOf<String, String>()

@@ -1,8 +1,8 @@
 package chapter12.code6
 
 import kotlinx.coroutines.delay
-import section12.code6.Follower
-import section12.code6.PersonAccountRepository
+import section.section12.code6.Follower
+import section.section12.code6.PersonAccountRepository
 
 class StubPersonAccountRepository(
   private val users: List<Follower.PersonAccount>

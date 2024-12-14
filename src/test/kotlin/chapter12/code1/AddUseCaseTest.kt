@@ -2,7 +2,7 @@ package chapter12.code1
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import section12.code1.AddUseCase
+import section.section12.code1.AddUseCase
 
 class AddUseCaseTest {
   @Test

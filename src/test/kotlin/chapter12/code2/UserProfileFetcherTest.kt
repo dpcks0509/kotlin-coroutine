@@ -2,7 +2,7 @@ package chapter12.code2
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import section12.code2.UserProfileFetcher
+import section.section12.code2.UserProfileFetcher
 
 class UserProfileFetcherTest {
   @Test

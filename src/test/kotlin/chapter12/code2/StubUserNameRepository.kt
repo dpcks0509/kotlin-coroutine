@@ -1,6 +1,6 @@
 package chapter12.code2
 
-import section12.code2.UserNameRepository
+import section.section12.code2.UserNameRepository
 
 // 유연하지 않은 StubUserNameRepository
 //class StubUserNameRepository : UserNameRepository {

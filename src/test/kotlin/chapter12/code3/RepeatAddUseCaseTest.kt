@@ -3,7 +3,7 @@ package chapter12.code3
 import kotlinx.coroutines.runBlocking
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import section12.code3.RepeatAddUseCase
+import section.section12.code3.RepeatAddUseCase
 
 /**
  * 오류가 생기는 테스트
